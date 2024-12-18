@@ -1,0 +1,23 @@
+{
+  "name": "your-project-name",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^5.22.5",
+    "next": "13.5.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "sunflower-antd": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
